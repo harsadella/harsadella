@@ -30,14 +30,13 @@ I’m a **Computer Science student** with a strong passion for **robotics** and 
 
 ---
 
-### ☘︎ featured mindset
+### ☘︎ Featured mindset
 > "if you want to overcome the whle world, overcome yourself - Fyodor Dostoevsky"
 
 ---
 
-### 📫 let's connect
-- Instagram: @username_kamu
-- Email: emailkamu@gmail.com
+### ᯓ➤ Let's connect
+[![Email](https://img.shields.io/badge/Email-333333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harsadella@gmail.com)
 
 ---
 
