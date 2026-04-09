@@ -16,23 +16,22 @@ I’m a **Computer Science student** with a strong passion for **robotics** and 
 
 ---
 
-### ⚙️ tech i play with
-- 🔌 Arduino, ESP32, Raspberry Pi  
-- 💻 C/C++, Python  
-- 🔧 Sensor, Relay, Motor, LCD  
-- 🌐 Basic Networking  
+### 𖹭.ᐟ Technologies
+.ᐟ Arduino, ESP32, Raspberry Pi  
+.ᐟ C/C++, Python  
+.ᐟ Sensor, Relay, Motor, LCD 
 
 ---
 
-### 🚀 current vibes
-- building smart systems  
-- exploring automation & sensors  
-- turning ideas into real devices  
+### ۶ৎ Current vibes
+𔓘 building smart systems  
+꩜ exploring automation & sensors  
+𔓘 turning ideas into real devices  
 
 ---
 
-### 📌 featured mindset
-> "if it doesn't move or sense something, i'm probably not interested"
+### ☘︎ featured mindset
+> "if you want to overcome the whle world, overcome yourself - Fyodor Dostoevsky"
 
 ---
 
