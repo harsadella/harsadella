@@ -1,7 +1,7 @@
 <h1 align="center">Hello, I'm Della 👋</h1>
 
 <p align="center">
-  <i>Computer Systems Student</i><br>
+  <i>Computer Science Student</i><br>
   IoT & Embedded Systems Developer
 </p>
 
@@ -12,7 +12,7 @@
 ---
 
 ### ABOUT ME
-I’m a Computer Systems student with a strong passion for robotics and a growing focus on IoT and embedded systems. I enjoy building hands-on projects, experimenting with sensors and hardware, and turning ideas into real, functional devices. I’m always curious to explore new technologies, continuously learning and improving along the way, with the goal of creating impactful and useful solutions in the future.
+I’m a **Computer Science student** with a strong passion for **robotics** and a growing focus on **IoT** and **embedded systems**. I enjoy **building hands-on projects**, experimenting with **sensors and hardware**, and turning ideas into **real, functional devices**. I’m always curious to **explore new technologies**, continuously **learning and improving** along the way, with the goal of **creating impactful and useful solutions** in **the future**.
 
 ---
 
