@@ -1,16 +1,30 @@
-## Hi there 👋
+<h1 align="center">Hello, I'm Della 👋</h1>
 
-<!--
-**harsadella/harsadella** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <b>Computer Science Student</b><br>
+  IoT Developer • Embedded Systems • UI/UX
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  Building ideas ⚡
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 About Me
+- 🔭 Lagi fokus: IoT & Arduino Projects
+- 🌱 Belajar: ESP32, Raspberry Pi, Embedded Systems
+- 💡 Suka bikin project real (sensor, automation, dll)
+
+---
+
+### 🛠️ Tech Stack
+- 💻 Arduino, ESP32, Raspberry Pi  
+- ⚡ C/C++, Python  
+- 🎨 Figma (UI/UX)  
+
+---
+
+### 📫 Contact
+- Instagram: @username_kamu
+- Email: emailkamu@gmail.com
