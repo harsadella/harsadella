@@ -37,13 +37,3 @@ I’m a **Computer Science student** with a strong passion for **robotics** and 
 
 ### ᯓ➤ Let's connect
 [![Email](https://img.shields.io/badge/Email-333333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harsadella@gmail.com)
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=harsadella&show_icons=true&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harsadella&layout=compact&hide_border=true" />
-</p>
