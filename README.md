@@ -45,16 +45,14 @@
 <!--- ABOUT ME --->
 <div align="center">
 
-**🖳 Computer Systems Student**  
+**🖳 Computer Science Student**  
 IoT & Embedded Systems Developer
 
 </div>
 
 ---
 
-A 4th-semester Computer Systems student with a strong interest in robotics, IoT, and embedded systems. Focused on building projects from the ground up, where ideas are turned into real, working systems.
-
-Building real-world stuff, not just code.
+A 4th-semester Computer Science student interested in robotics, IoT, and embedded systems, focused on turning ideas into working systems through hands-on development, where code becomes something real instead of just lines on a screen and is built and refined through continuous experimentation.
 
 Hands-on experience mainly involves Arduino and ESP32, with an emphasis on connecting hardware and software through practical experimentation.
 
