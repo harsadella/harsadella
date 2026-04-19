@@ -6,19 +6,12 @@
 <p align="center">
   <a href="https://instagram.com/ww.naoe">
     <img src="https://img.shields.io/badge/-ww.naoe-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F"/>
-  </a>&nbsp;&nbsp;
-
-  <a href="#">
+  </a><a href="#">
     <img src="https://img.shields.io/badge/-soon-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=000000"/>
-  </a>&nbsp;&nbsp;
-
-  <a href="#">
+  </a><a href="#">
     <img src="https://img.shields.io/badge/-soon-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=FF0000"/>
   </a>
 </p>
-
-<hr style="border: none; border-top: 1px solid #333; width: 50%;">
-
 <!--- greetings --->
 <p align="center">
   <picture>
