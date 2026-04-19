@@ -82,3 +82,6 @@ Always exploring and learning new technologies. Currently expanding into Raspber
     />
   </picture>
 </p>
+
+---
+<div align="center"><picture><source media="(prefers-color-scheme: light)" srcset="Without curiosity and experimentation, even the most complex system becomes inert."><source media="(prefers-color-scheme: dark)" srcset="Without curiosity and experimentation, even the most complex system becomes inert."><h6>Without curiosity and experimentation, even the most complex system becomes inert.</h6></picture></div>
