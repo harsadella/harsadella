@@ -2,36 +2,10 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/harsadella/harsadella_assets/main/WhatsApp%20Image%202026-04-19%20at%2015.46.05.jpeg" width="1000"/>
 </p>
+
 <!--- SNS --->
-<p align="center">
-  <a href="https://instagram.com/ww.naoe">
-    <picture>
-      <!-- Light mode -->
-      <source media="(prefers-color-scheme: light)" 
-        srcset="https://img.shields.io/badge/ww.naoe-EEEEEE?style=for-the-badge&logo=instagram&logoColor=000000">
-      <!-- Dark mode -->
-      <source media="(prefers-color-scheme: dark)" 
-        srcset="https://img.shields.io/badge/ww.naoe-111111?style=for-the-badge&logo=instagram&logoColor=FFFFFF">
-      <img src="https://img.shields.io/badge/ww.naoe-111111?style=for-the-badge&logo=instagram&logoColor=FFFFFF">
-    </picture>
-  </a><a href="#">
-    <picture>
-      <source media="(prefers-color-scheme: light)" 
-        srcset="https://img.shields.io/badge/soon-EEEEEE?style=for-the-badge&logo=x&logoColor=000000">
-      <source media="(prefers-color-scheme: dark)" 
-        srcset="https://img.shields.io/badge/soon-111111?style=for-the-badge&logo=x&logoColor=FFFFFF">
-      <img src="https://img.shields.io/badge/soon-111111?style=for-the-badge&logo=x&logoColor=FFFFFF">
-    </picture>
-  </a><a href="#">
-    <picture>
-      <source media="(prefers-color-scheme: light)" 
-        srcset="https://img.shields.io/badge/soon-EEEEEE?style=for-the-badge&logo=youtube&logoColor=000000">
-      <source media="(prefers-color-scheme: dark)" 
-        srcset="https://img.shields.io/badge/soon-111111?style=for-the-badge&logo=youtube&logoColor=FFFFFF">
-      <img src="https://img.shields.io/badge/soon-111111?style=for-the-badge&logo=youtube&logoColor=FFFFFF">
-    </picture>
-  </a>
-</p>
+<div align="center"><a href="https://instagram.com/ww.naoe"><img src="https://img.shields.io/badge/ww.naoe-111111?style=for-the-badge&logo=instagram&logoColor=white"></a><a href="#"><img src="https://img.shields.io/badge/soon-111111?style=for-the-badge&logo=x&logoColor=white"></a><a href="#"><img src="https://img.shields.io/badge/soon-111111?style=for-the-badge&logo=youtube&logoColor=white"></a><a href="mailto:harsadella@gmail.com"><img src="https://img.shields.io/badge/email%20me-111111?style=for-the-badge&logo=gmail&logoColor=white"></a></div>
+
 <!--- GREETINGS --->
 <p align="center">
   <picture>
@@ -42,6 +16,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=45&center=true&vCenter=true&width=800&speed=35&pause=1000&lines=HEY+THERE!+I'M+DELLA">
   </picture>
 </p>
+
 <!--- ABOUT ME --->
 <div align="center">
 
